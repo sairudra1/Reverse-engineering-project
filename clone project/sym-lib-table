@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "clone project-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/clone project-eagle-import.kicad_sym")(options "")(descr ""))
+)
